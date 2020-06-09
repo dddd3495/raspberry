@@ -7,8 +7,7 @@ index | service | function
 
 # What does this project do? 
 This project provides two functions as shown in the table above. 
-![한동](https://ojsfile.ohmynews.com/STD_IMG_FILE/2018/1128/IE002426647_STD.jpg “한동로고” width="300" height="300")
-![워드프레스](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1200px-New_Logo_Gmail.svg.png “워드프레스” width="300" height="300")
+
 1. WordPress offers a school cafeteria's menu and mom's menu at Handong University. 
 2. It also provides mail mail service written in PHP code.
 
