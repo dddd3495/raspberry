@@ -1,4 +1,7 @@
 # Eunchae's Raspberrypi Project
-1. Wordpress Handong's WebSite
-2. Email Service
+
+index | service | function
+---|:---:|---:
+`1` | wordpress **Handong's** website | `provide handong's menu`
+`2` | Email Service | `made by php code and you can send email`
 
