@@ -13,8 +13,8 @@ This project provides two functions as shown in the table above.
 
 # Why is this project useful? 
 - Through WordPress, you can check the menu information of Handong University by using handong's **OPEN API**. 
-- You can learn how to use wordpree in raspberrypi.
-- You can also try sending mail through the php code and.
+- You can learn how to use wordpress in raspberrypi.
+- You can also try sending mail through the php code.
 
 # How do I get started? 
 1. **Wordpress**
