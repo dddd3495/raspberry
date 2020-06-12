@@ -30,7 +30,6 @@ This project provides two functions as shown in the table above.
 * insert mail title
 * insert mail contents
 - Then, you can send the mail
-## you should 
 
 # 4 Where can I get more help, if I need it?
 - PHPMaker Github Page https://github.com/PHPMailer/PHPMailer
