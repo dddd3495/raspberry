@@ -39,3 +39,7 @@ This project provides two functions as shown in the table above.
 # 5 Video (Youtube)
 https://youtu.be/LUcAuWjzw2Q
 - This includes the project description and demo.
+
+# 6 Addition Part
+- made mail **sender.php** (can send Recipient mail address, mail title and mail contents in server)
+- made a **WordPress page**, and I used **Handong's Open API** to display the **semesters and menus**.
